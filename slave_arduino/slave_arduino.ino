@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include <DHT.h>
-
+// test
 #define DHTPIN 7
 #define DHTTYPE DHT11   // DHT 11 
 char temp[6]; //2 int, 2 dec, 1 point, and \0
